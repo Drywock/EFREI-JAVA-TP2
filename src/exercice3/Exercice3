@@ -1,0 +1,5 @@
+//Question 1:
+// See class Point in exercice1 package
+
+//Question 2:
+// We have to use @Overide because the method toString() belong to java.lang.Object
