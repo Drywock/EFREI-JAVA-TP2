@@ -4,7 +4,7 @@
 package exercice4;
 
 /**
- * @author Thomas LINTANF
+ * @author Thomas LINTANF, Gabriel RIBIER
  *
  */
 public class Compteur {

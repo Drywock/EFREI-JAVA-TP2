@@ -4,7 +4,7 @@
 package Exercice2;
 
 /**
- * @author Thomas LINTANF
+ * @author Thomas LINTANF, Gabriel RIBIER
  *
  */
 
